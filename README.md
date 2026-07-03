@@ -32,7 +32,7 @@ pip install -r requirements.txt
 python main.py "your prompt"
 ```
 
-![Screenshot](images/elitze.png)
+![Chat UI with sidebar](images/elitze.png)
 
 ## Tech Stack
 
