@@ -1,3 +1,5 @@
+![Elitze Sentinel Frontier](images/MYTHOSpng.png)
+
 # Elitze Sentinel Frontier
 
 A modular AI orchestration platform for prompt engineering, workflow automation, and real-time data processing. Built for developers who need structured control over LLM-driven pipelines without sacrificing flexibility.
@@ -29,6 +31,8 @@ npm install && npm run dev
 pip install -r requirements.txt
 python main.py "your prompt"
 ```
+
+![Screenshot](images/elitze.png)
 
 ## Tech Stack
 
