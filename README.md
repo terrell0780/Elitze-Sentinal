@@ -2,7 +2,7 @@
 
 # Elitze Sentinel Frontier
 
-A modular AI orchestration platform for prompt engineering, workflow automation, and real-time data processing. Built for developers who need structured control over LLM-driven pipelines without sacrificing flexibility.
+Fable5 and Mythos5: Agentic agent orchestration meets real-time signal intelligence. LangGraph pipelines, SDR scanning, ML classification, and infrastructure control — all in one platform.
 
 ## Capabilities
 
