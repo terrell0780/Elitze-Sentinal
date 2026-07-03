@@ -1,0 +1,38 @@
+# Core dependencies
+langgraph>=0.1.0
+langchain-core>=0.2.0
+langchain-openai>=0.1.0
+langchain-anthropic>=0.1.0
+
+# Optional: For local LLM support
+# langchain-ollama>=0.1.0
+
+# Platform dependencies
+fastapi>=0.100.0
+uvicorn[standard]>=0.23.0
+websockets>=11.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+
+# Database
+aiosqlite>=0.19.0
+
+# WiFi Imaging
+numpy>=1.24.0
+scipy>=1.10.0
+# pyrtlsdr>=2.4.0  # Uncomment for real SDR hardware
+
+# ML (optional)
+scikit-learn>=1.3.0
+# torch>=2.0.0  # Uncomment for deep learning
+# tensorflow>=2.13.0  # Uncomment for TensorFlow
+
+# Dashboard
+jinja2>=3.1.0
+python-multipart>=0.0.6
+
+# Development
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+black>=23.0
+ruff>=0.1.0
