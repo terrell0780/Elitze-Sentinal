@@ -20,15 +20,14 @@ Thumbs.db
 .pytest_cache/
 
 # Source code (hidden from repo — sales-only listing)
-agent/
+# NOTE: agent/, main.py, test_agent.py are now included for Railway deployment
 backend/src/
 f5_platform/
 frontend/src/
 frontend/public/
 wifi_imaging/
-main.py
-test_agent.py
 
 # IDE
 .vscode/
 .idea/
+
