@@ -20,8 +20,7 @@ Thumbs.db
 .pytest_cache/
 
 # Source code (hidden from repo — sales-only listing)
-# NOTE: agent/, main.py, test_agent.py are now included for Railway deployment
-backend/src/
+# NOTE: agent/, main.py, test_agent.py, backend/src/ are now included for Railway deployment
 f5_platform/
 frontend/src/
 frontend/public/
